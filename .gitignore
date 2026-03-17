@@ -1,0 +1,4 @@
+#Ignore ENV files
+.env
+
+#Ignore build files
